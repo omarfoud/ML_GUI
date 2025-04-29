@@ -1,0 +1,5 @@
+pandas==2.2.3         # Powerful data structures for data analysis and manipulation :contentReference[oaicite:0]{index=0}
+numpy==2.2.5          # Fundamental package for array computing :contentReference[oaicite:1]{index=1}
+scikit-learn==1.6.1   # Machine learning library; requires Python ≥3.9, NumPy ≥1.19.5, SciPy ≥1.6.0, joblib ≥1.2.0, threadpoolctl ≥3.1.0 :contentReference[oaicite:2]{index=2}
+matplotlib==3.10.1    # Python plotting package :contentReference[oaicite:3]{index=3}
+scipy>=1.6.0          # Required by scikit-learn :contentReference[oaicite:4]{index=4}
